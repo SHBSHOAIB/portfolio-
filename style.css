@@ -156,6 +156,19 @@ span {
     border: 1px solid #38bdf8;
 }
 
+.cv-btn {
+    background: cyan;
+    border: 2px white;
+    color: #ffffff;
+}
+
+.cv-btn:hover {
+    border-color: white;
+    color: #ffffff;
+    transform: translateY(-3px);
+}
+
+
 .primary-btn {
     background: #38bdf8;
     color: white;
