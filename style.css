@@ -92,7 +92,7 @@ span {
     list-style: none;
 
     /* Eyes se thora upar */
-    transform: translateY(-35px);
+    transform: translateY(-20px);
 
     position: relative;
     z-index: 20;
