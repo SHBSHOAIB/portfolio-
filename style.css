@@ -68,7 +68,7 @@ transform: translateY(-20px);
     display: flex;
     gap: 25px;
     list-style: none;
-transform: translateY(35px);
+transform: translateY(-35px);
 }
 
 .nav-links a {
