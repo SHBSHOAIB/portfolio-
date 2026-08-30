@@ -57,6 +57,7 @@ span {
     font-size: 1.8rem;
     font-weight: 800;
     letter-spacing: 1px;
+transform: translateY(-20px);
 }
 
 .logo span {
@@ -67,6 +68,7 @@ span {
     display: flex;
     gap: 25px;
     list-style: none;
+transform: translateY(35px);
 }
 
 .nav-links a {
@@ -92,7 +94,7 @@ span {
             rgba(2, 6, 23, 0.20),
             rgba(2, 6, 23, 0.30)
         ),
-        url("image0.jpg") center top / 100% auto no-repeat;
+        url("shb.png") center top / 100% auto no-repeat;
 
     background-color: #020617;
 
